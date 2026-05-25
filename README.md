@@ -103,7 +103,7 @@ swetha-calling-agent/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/swetha-calling-agent.git
+git clone https://github.com/mullaguriganesh/swetha-calling-agent.git
 
 cd swetha-calling-agent
 ```
@@ -177,7 +177,7 @@ pkg install nodejs git
 ## Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/swetha-calling-agent.git
+git clone https://github.com/mullaguriganesh/swetha-calling-agent.git
 
 cd swetha-calling-agent
 
